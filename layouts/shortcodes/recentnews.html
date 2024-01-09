@@ -1,0 +1,15 @@
+
+{{ $recent := where .Site.RegularPages "Section" "news" }}
+{{ $recent := sort $recent "Date" "desc" }}
+{{/*  {{ $recent := slice $recent 0 3 }}  */}}
+
+<h1>Recent News</h1>
+<ul>
+ {{ range first 3 $recent }}
+ <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+ </li>
+ {{ end }}
+</ul> 
+
+<p><a href="/news">More news</a></p>
