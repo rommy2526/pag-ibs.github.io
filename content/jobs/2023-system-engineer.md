@@ -1,8 +1,8 @@
 ---
-title: System engineer and research positions
-date: 2023-10-31
-deadline: 2023-12-31
+title: System Engineer
+date: 2024-01-01
+deadline: 2024-12-31
 ---
 
-lorem ipsum
+The initial duration is 2 years with a possible extension.
 
