@@ -5,7 +5,11 @@
       "extended": true,
       "version": "0.121.1"
     },
-    "ghcr.io/devcontainers/features/node:1": {}
+    "ghcr.io/devcontainers/features/node:1": {},
+    "python": {
+      "version": "3.10",
+      "pip": true
+  }
   },
   "customizations": {
     "vscode": {

@@ -25,15 +25,21 @@ menu:
     - name: People
       pageRef: /people
       weight: 2
-    - name: "Workshop 2024 ↗"
-      url: "https://ibs.re.kr/psse2024/index.html"
-      weight: 5
+    - name: Publications
+      pageRef: /publications
+      weight: 2
     - name: "News"
       pageRef: "/news"
       weight: 3
     - name: "Jobs"
       pageRef: "/jobs"
       weight: 4
+    - name: "Contact"
+      pageRef: "/contact"
+      weight: 5
+    - name: "Workshop 2024 ↗"
+      url: "https://ibs.re.kr/psse2024/index.html"
+      weight: 50
     # - name: Search
     #   weight: 4
     #   params:
