@@ -17,6 +17,7 @@ with open("publication-dois.txt", "r") as file:
 
     # Remove trailing newline character
     doi = line.strip().replace('http://dx.doi.org/', '')
+    print(f"Line {i}: {doi}")
 
     # Fetch the publication details from the Crossref API
     url = f"https://api.crossref.org/works/{doi}"
@@ -34,7 +35,8 @@ with open("publication-dois.txt", "r") as file:
     authors = ", ".join([author['family'] + ', ' + author['given'] for author in data['author']])
 
     # Format the details into a markdown list item
-    publication = f"- {title}, {authors}, [{doi}](https://doi.org/{doi})"
+    cleandoi = data["DOI"]
+    publication = f"- {title}, {authors}, [{cleandoi}](https://doi.org/{doi})"
 
     # Append the list item to the list of publications
     publications.append(publication)
