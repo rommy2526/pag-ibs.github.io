@@ -13,10 +13,10 @@ The website is generated using a static site generator [hugo](https://gohugo.io/
 hugo server
 ```
 The codespace will point you to the url where you can see the rendered website.
-- After all the edits, make sure to commit the changes to the original repo to publsh.
+- After all the edits, make sure to commit the changes and push to the original repo to publsh.
 
 
-
+---
 
 # Hextra Starter Template
 
