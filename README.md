@@ -1,7 +1,21 @@
 
 # PAG homepage
 
-test from codespace
+The website is generated using a static site generator [hugo](https://gohugo.io/) and the [hextra theme](https://imfing.github.io/hextra/).
+
+## Edit workflow
+
+- Start a github codespace. This will give a containerized development environment.
+- Contents are in the `content/` directory, written in markdown or you can also write html directly (See [hugo docs](https://gohugo.io/content-management/formats/)).
+- To check how the site renders, run
+
+```
+hugo server
+```
+The codespace will point you to the url where you can see the rendered website.
+- After all the edits, make sure to commit the changes to the original repo to publsh.
+
+
 
 
 # Hextra Starter Template
