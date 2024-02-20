@@ -1,5 +1,5 @@
 ---
-title: 2023 대전시민천문대 금성특강 (두번째)
+title: PAG's outreach activity at the Daejeon Observatory in Korean (2/2)
 date: 2023-06-09
 ---
 

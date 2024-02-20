@@ -1,5 +1,5 @@
 ---
-title: "2023-2 Venus Data Online Workshop"
+title: "2023-2 Online Venus Data Workshop"
 date: 2023-11-10
 ---
 

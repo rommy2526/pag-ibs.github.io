@@ -1,5 +1,5 @@
 ---
-title: PAG's outreach activity at the Daejeon Observatory in Korean
+title: PAG's outreach activity at the Daejeon Observatory in Korean (1/2)
 date: 2023-04-30
 ---
 
