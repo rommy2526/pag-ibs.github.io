@@ -24,19 +24,22 @@ menu:
   main:
     - name: People
       pageRef: /people
+      weight: 1
+    - name: Cooperation
+      pageRef: /cooperation
       weight: 2
     - name: Publications
       pageRef: /publications
-      weight: 2
+      weight: 10
     - name: "News"
       pageRef: "/news"
       weight: 3
     - name: "Jobs"
       pageRef: "/jobs"
-      weight: 4
+      weight: 20
     - name: "Contact"
       pageRef: "/contact"
-      weight: 5
+      weight: 30
     - name: "Workshop 2024 ↗"
       url: "https://ibs.re.kr/psse2024/index.html"
       weight: 50
@@ -56,8 +59,8 @@ params:
     displayTitle: true
     displayLogo: false
     logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
+      path: /images/ibs-pag_log.svg
+      dark: /images/ibs-pag_log.svg
       link: /
       width: 40
       height: 20
