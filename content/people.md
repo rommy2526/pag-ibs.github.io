@@ -15,18 +15,18 @@ toc: false
   {{< membercard name="Semyeong Oh" image="/images/people/soh.jpg" role="Senior Researcher" mail="soh@ibs.re.kr" >}}
   {{< membercard name="Jose Eduardo Oliveira Silva" image="/images/people/jsilva.jpg" role="Postdoctoral Researcher" mail="josesilva@ibs.re.kr">}}
   {{< membercard name="Ashimananda Modak" image="/images/people/amodak.jpg" role="Postdoctoral Researcher">}}
-  {{< membercard name="Rommy Aliste" image="https://picsum.photos/200/300" role="Postdoctoral Researcher">}}
+  {{< membercard name="Rommy Aliste" image="/images/placeholder.jpg" role="Postdoctoral Researcher">}}
   {{< membercard name="Zizung Yoon" image="/images/people/zyoon.jpg" role="Visiting research fellow (KAU)" mail="z.yoon@kau.ac.kr">}}
   {{< membercard name="Hyeon Ju Kang" image="/images/people/hjkang.jpg" role="Student Intern (Yonsei Univ.)" mail="myjju0318@yonsei.ac.kr">}}
   {{< membercard name="Changmin Lee" image="/images/people/clee.jpg" role="Student Intern (KAU)" mail="changmin3702@kau.kr">}}
-  {{< membercard name="Chanhee Jung" image="https://picsum.photos/200/301" role="Student Intern (KAU)" mail="chanhee1126@kau.kr">}}
+  {{< membercard name="Chanhee Jung" image="/images/placeholder.jpg" role="Student Intern (KAU)" mail="chanhee1126@kau.kr">}}
 {{< /cards >}}
 
 ## Staff
 
 {{< cards rows="6" >}}
-  {{< membercard name="Jieun Shin" image="https://picsum.photos/200/400" role="Staff" mail="sje@ibs.re.kr">}}
-  {{< membercard name="Jiyeon Yeo" image="https://picsum.photos/200/400" role="Staff" mail="jyyeo@ibs.re.kr">}}
+  {{< membercard name="Jieun Shin" image="/images/placeholder.jpg" role="Staff" mail="sje@ibs.re.kr">}}
+  {{< membercard name="Jiyeon Yeo" image="/images/placeholder.jpg" role="Staff" mail="jyyeo@ibs.re.kr">}}
 {{< /cards >}}
 
 ## Alumni
