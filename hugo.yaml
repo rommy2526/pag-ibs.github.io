@@ -57,7 +57,7 @@ params:
     width: full
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
     logo:
       path: /images/ibs-pag_logo.svg
       dark: /images/ibs-pag_logo.svg

@@ -7,5 +7,5 @@ cascade:
 
 
 {{< callout emoji="📰" >}}
-  [Subscribe to Newsletter](http://eepurl.com/ifLXPD)
+  [Subscribe to our Newsletter](http://eepurl.com/ifLXPD)
 {{< /callout >}}

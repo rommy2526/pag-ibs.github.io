@@ -1,4 +1,6 @@
 ---
-title: Join us!
+title: Jobs
 toc: false
+cascade:
+    type: blog
 ---
