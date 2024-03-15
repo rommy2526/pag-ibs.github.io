@@ -59,11 +59,11 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: /images/ibs-pag_logo.svg
-      dark: /images/ibs-pag_logo.svg
+      path: /images/ibs_pag_bk.svg
+      dark: /images/ibs_pag_wt.svg
       link: /
-      width: 40
-      height: 20
+      width: 90
+      height: 40
 
   footer:
     displayCopyright: false
