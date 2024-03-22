@@ -10,7 +10,7 @@ toc: false
 ## Members 
 
 {{< cards rows="6" >}}
-  {{< membercard name="Yeon Joo Lee" image="https://centers.ibs.re.kr/Upl/pag/_personnel/thm_pag_personnel_0_1666837527.png" role="Chief Investigator" mail="yeonjoolee@ibs.re.kr" homepage="https://yjncv.wordpress.com/">}}
+  {{< membercard name="Yeon Joo Lee" image="/images/people/yjlee2.jpg" role="Chief Investigator" mail="yeonjoolee@ibs.re.kr" homepage="https://yjncv.wordpress.com/">}}
   {{< membercard name="Evgenij S. Zubko" image="/images/people/ezubko.jpg" role="Senior Researcher" mail="zubko@ibs.re.kr" >}}
   {{< membercard name="Semyeong Oh" image="/images/people/soh.jpg" role="Senior Researcher" mail="soh@ibs.re.kr" >}}
   {{< membercard name="Jose Eduardo Oliveira Silva" image="/images/people/jsilva.jpg" role="Postdoctoral Researcher" mail="josesilva@ibs.re.kr">}}
@@ -25,8 +25,8 @@ toc: false
 ## Staff
 
 {{< cards rows="6" >}}
-  {{< membercard name="Jieun Shin" image="/images/placeholder.jpg" role="Staff" mail="sje@ibs.re.kr">}}
-  {{< membercard name="Jiyeon Yeo" image="/images/placeholder.jpg" role="Staff" mail="jyyeo@ibs.re.kr">}}
+  {{< membercard name="Jieun Shin" image="/images/people/jshin.jpg" role="Staff" mail="sje@ibs.re.kr">}}
+  {{< membercard name="Jiyeon Yeo" image="/images/people/jyeo.jpg" role="Staff" mail="jyyeo@ibs.re.kr">}}
 {{< /cards >}}
 
 ## Alumni
