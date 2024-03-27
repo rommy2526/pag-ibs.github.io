@@ -1,5 +1,5 @@
 ---
-title: "[Mini-workshop] 13-14 Dec 2024, Planetary atmospheric studies using theory and remote observations"
+title: "[Mini-workshop] 13-14 Dec 2023, Planetary atmospheric studies using theory and remote observations"
 date: 2023-12-13
 ---
 
@@ -8,7 +8,7 @@ date: 2023-12-13
 ## Planetary atmospheric studies using theory and remote observations
 
 Mini-workshop at IBS/PAG
-13-14 Dec 2024 (Hybrid workshop)
+13-14 Dec 2023 (Hybrid workshop)
 
 ![Mini-workshop](20231213_timetable.jpg)
 
