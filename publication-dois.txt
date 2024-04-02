@@ -1,15 +1,12 @@
 # prepend dois or doi urls to this file
 10.1029/2023JE007852
 10.17597/isas.darts/vco-00300
-10.1016/j.actaastro.2023.06.042
 10.1016/j.icarus.2023.115652
-https://doi.org/10.1029/2019GL083820
+https://doi.org/10.3847/PSJ/ac84d1
+10.1029/2022JE007228
+10.1089/ast.2021.0032
 https://doi.org/article/10.3847/1538-4365/aae844
-https://doi.org/10.1029/2023JE007852
-https://doi.org/10.1029/2023JE007852
 https://doi.org/10.1016/j.actaastro.2023.06.042
-10.3847/PSJ/ac84d1
-https://doi.org/10.1029/2022JE007228
 https://doi.org/10.1089/ast.2021.0032
 10.1016/j.asr.2021.03.012
 10.1029/2020GL090577
@@ -23,7 +20,6 @@ https://doi.org/10.1007/s11214-021-00797-9
 10.1029/2019JE006192
 10.1016/j.icarus.2020.113682
 10.1029/2019GL083820
-10.3847/1538-3881/ab3120
 10.1016/j.icarus.2019.07.002
 https://doi.org/10.1051/0004-6361/201935388
 https://doi.org/10.1029/2018JE005842
