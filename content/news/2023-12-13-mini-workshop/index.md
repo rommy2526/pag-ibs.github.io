@@ -1,5 +1,5 @@
 ---
-title: "[Mini-workshop] 13-14 Dec 2023, Planetary atmospheric studies using theory and remote observations"
+title: "[Mini-workshop] 13-14 Dec 2023, Planetary Atmospheric Studies Using Theory and Remote Observations"
 date: 2023-12-13
 ---
 
