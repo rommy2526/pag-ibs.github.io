@@ -19,7 +19,7 @@ toc: false
   {{< membercard name="Zizung Yoon" image="/images/people/zyoon.jpg" role="Visiting research fellow (KAU)" mail="z.yoon@kau.ac.kr">}}
   {{< membercard name="Hyeon Ju Kang" image="/images/people/hjkang.jpg" role="Student Intern (Yonsei Univ.)" mail="myjju0318@yonsei.ac.kr">}}
   {{< membercard name="Changmin Lee" image="/images/people/clee.jpg" role="Student Intern (KAU)" mail="changmin3702@kau.kr">}}
-  {{< membercard name="Chanhee Jung" image="/images/placeholder.jpg" role="Student Intern (KAU)" mail="chanhee1126@kau.kr">}}
+  {{< membercard name="Chanhee Jung" image="/images/people/cjung.jpg" role="Student Intern (KAU)" mail="chanhee1126@kau.kr">}}
 {{< /cards >}}
 
 ## Staff

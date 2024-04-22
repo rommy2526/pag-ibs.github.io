@@ -1,4 +1,11 @@
 # prepend dois or doi urls to this file
+10.1016/j.icarus.2024.116076
+https://doi.org/10.1016/j.icarus.2024.115967
+https://doi.org/10.1051/0004-6361/202347933
+https://doi.org/10.1029/2023JE008221
+https://doi.org/10.1093/mnrasl/slad181
+https://doi.org/10.1016/j.jqsrt.2023.108854
+https://doi.org/10.3389/frsen.2023.1321621
 10.1029/2023JE007852
 10.17597/isas.darts/vco-00300
 10.1016/j.icarus.2023.115652
