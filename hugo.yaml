@@ -40,7 +40,7 @@ menu:
     - name: "Contact"
       pageRef: "/contact"
       weight: 30
-    - name: "Workshop 2024 ↗"
+    - name: "Conference PSSE 2024 ↗"
       url: "https://ibs.re.kr/psse2024"
       weight: 50
     # - name: Search

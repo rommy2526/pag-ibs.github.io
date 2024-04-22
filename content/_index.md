@@ -5,7 +5,7 @@ toc: false
 
 
 {{< callout type="info" >}}
-  Looking for 2024 Planetary Science and Space Exploration Workshop? Click [here](https://ibs.re.kr/psse2024)!
+  Looking for 2024 Planetary Science and Space Exploration (PSSE) conference? Click [here](https://ibs.re.kr/psse2024)!
 {{< /callout >}}
 
 
