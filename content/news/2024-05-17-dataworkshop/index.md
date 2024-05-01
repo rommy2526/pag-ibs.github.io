@@ -15,7 +15,7 @@ The goals of PAG’s Data Workshops are
 ### How to attend the workshop
 Date and Time: May 17th (Fri) 16:00-18:00 KST
 
-Zoom registration: https://zoom.us/meeting/register/tJ0scOiqqzMiE9HPHIrJ4j20WiZrcsqFfLDf
+[**Zoom registration link**](https://zoom.us/meeting/register/tJ0scOiqqzMiE9HPHIrJ4j20WiZrcsqFfLDf)
 
 ### What you need
 Your camera, speaker, and microphone for online communication.
