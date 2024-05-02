@@ -1,6 +1,6 @@
 ---
 title: "2024 4th Venus Data Workshop [online]"
-date: 2024-05-17
+date: 2024-05-01
 ---
 
 PAG plans its fourth Data Workshop. This workshop will explain images at 10 µm of Venus (see the sample image above), which provides atmospheric temperature information, ~65 km above the surface. The Longwave Infrared Camera (LIR) acquired the sample image from the Akatsuki Venus orbiter, operating since 2015. The global-scale atmospheric wave is clearly visible on the Venus disk's left half (note that Venus's radius is 6,052 km). The source of the wave is the high mountains on the surface (1-5 km elevation), implying the important surface influence on the planet's atmosphere.
