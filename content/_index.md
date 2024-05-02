@@ -9,7 +9,7 @@ toc: false
 {{< /callout >}}
 
 {{< callout type="important" >}}
-  2024 Summer Internship Open - Application Deadline: May 20th [Link](https://pag-ibs.github.io/jobs/2024-summer-internship/)!
+  2024 Summer Internship - Application Deadline: May 20th [Link](https://pag-ibs.github.io/jobs/2024-summer-internship/)!
 {{< /callout >}}
 
 {{< callout type="important" >}}
