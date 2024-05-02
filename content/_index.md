@@ -12,11 +12,9 @@ toc: false
   2024 Summer Internship Open - Application Deadline: May 20th [Link](https://pag-ibs.github.io/jobs/2024-summer-internship/)!
 {{< /callout >}}
 
-<!--
 {{< callout type="important" >}}
-  Online Data Workshop on May 17 [Link](https://ibs.re.kr/psse2024)!
+  Online Data Workshop on May 17 [Link](https://pag-ibs.github.io/news/2024-05-17-dataworkshop/)!
 {{< /callout >}}
--->
 
 ![](/images/main/2024_design_PAG.png)
 
