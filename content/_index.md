@@ -12,10 +12,6 @@ toc: false
   2024 Summer Internship - Application Deadline: May 20th [Link](https://pag-ibs.github.io/jobs/2024-summer-internship/)
 {{< /callout >}}
 
-{{< callout type="important" >}}
-  Online Data Workshop on May 17 [Link](https://pag-ibs.github.io/news/2024-05-17-dataworkshop/)
-{{< /callout >}}
-
 ![](/images/main/2024_design_PAG.png)
 
 PAG is a planetary atmosphere research group with an emphasis on the atmosphere of Venus. We analyze space- and ground-based observations to better characterize atmospheres on Venus.

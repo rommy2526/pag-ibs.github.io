@@ -8,6 +8,7 @@ PAG plans its fourth Data Workshop. This workshop will explain images at 10 µm 
 ![LIR_sample](LIR_sample.png)
 
 The goals of PAG’s Data Workshops are
+
 1. lowering a barrier for researchers to access recent Venus data
 2. providing opportunities for internships (either undergraduate or graduate school students) to join PAG during the summer vacation and beyond.
 - Note for [the Summer Internship announcement](https://pag-ibs.github.io/jobs/2024-summer-internship/)
