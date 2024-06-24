@@ -1,10 +1,12 @@
 ---
-title: Seminar at PAG - Extraterrestrial Volcanism, Volcanism in the inner solar system
+title: Seminar at PAG - Extraterrestrial Volcanism, Volcanism in the Inner Solar System
 date: 2024-06-19
 ---
 
-Prof. Hyunwoo Lee (SNU) visited PAG and introduced his ongoing research.
+Prof. Hyunwoo Lee (Seoul National University) visited PAG and introduced his ongoing research.
 
-Title: Introduction of BOAO/SPECTR and its transmission spectroscopy results of two hot Jupiters, HD 189733b and Qatar-8b
+Title: Extraterrestrial Volcanism, Volcanism in the Inner Solar System
 
-![ychoi_image](seminar_jun19.jpg)
+Prof. Lee analyzed evidence of features in the surface morphology of Venus, Mars, Mercury, the Moon and other satellites such as Io, Triton, Enceladus, Titan and Europa, which can be interpreted as a possible indication of volcanic activity similar to that found in different places on Earth.
+
+![hlee_image](seminar_jun19.jpg)
