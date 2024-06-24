@@ -9,3 +9,4 @@ Title: Extraterrestrial Volcanism, Volcanism in the Inner Solar System
 
 Prof. Lee analyzed evidence of features in the surface morphology of Venus, Mars, Mercury, the Moon and other satellites such as Io, Triton, Enceladus, Titan and Europa, which can be interpreted as a possible indication of volcanic activity similar to that found in different places on Earth.
 
+![hlee_image](seminar_jun19.jpg)
